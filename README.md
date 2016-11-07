@@ -56,3 +56,4 @@
  ไม่พบปัญหาในการคอมไพล์
  
 ![](https://github.com/IAMSUPERE/LAB-03/blob/master/lab3.jpg)
+![](https://github.com/IAMSUPERE/LAB-03/blob/master/lab32.jpg)
